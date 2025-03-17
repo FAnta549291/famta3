@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 231, 196);
+}
+
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+nav a{
+    border: 3px solid rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(255, 157, 0);
+    color: white
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: rgb(255, 157, 0);
+    padding: 15px;
+    text-align: center;
+
